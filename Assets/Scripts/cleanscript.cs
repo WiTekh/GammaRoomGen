@@ -15,11 +15,5 @@ public class cleanscript : MonoBehaviour
     public bool boss = false ;
     public bool spawn = false ;
 
-//    public void Update()
-//    {
-//        transform.GetChild(1).gameObject.SetActive(top);
-//        transform.GetChild(2).gameObject.SetActive(bot);
-//        transform.GetChild(3).gameObject.SetActive(left);
-//        transform.GetChild(4).gameObject.SetActive(right);
-//    }
+
 }
